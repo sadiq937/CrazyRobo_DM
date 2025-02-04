@@ -1,4 +1,4 @@
-# CrazyRobo-DM
+# FNU Shaik MOhammed Sadiq-DM
 
 A repository dedicated to exploring data management techniques using Python and Pandas for the Rutgers course **2025SP - Data Management (56:219:522:40) by FNU SHAIK MOHAMMED SADIQ, GRADUATE STUDENT IN DATA SCIENCE , RUID:228006151**
 
