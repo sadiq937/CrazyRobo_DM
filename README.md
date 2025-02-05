@@ -11,7 +11,7 @@ This Repository focuses on practical applications of Python for data manipulatio
 - Automating data workflows and visualizations.
 ---
 ## Dataset: CRM + Sales + Opportunities Analysis
-This repository uses the **CRM + Sales + Opportunities Analysis**, sourced from Kaggle. This dataset was chosen for its complexity and real-world relevance, making it ideal for demonstrating advanced data management techniques.
+This repository uses the **CRM + Sales + Opportunities Analysis**, sourced from Kaggle (https://www.kaggle.com/datasets/innocentmfa/crm-sales-opportunities). This dataset was chosen for its complexity and real-world relevance, making it ideal for demonstrating advanced data management techniques.
 ---
 ### Why This Dataset?
 #### Real-World Complexity:
