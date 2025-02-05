@@ -49,3 +49,6 @@ The following tools and frameworks are used in this repository:
    ```bash
    git clone https://github.com/sadiq937/Shaik_DM.git
    ```
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sadiq937/Shaik_DM/blob/main/yourfile.ipynb)
+
