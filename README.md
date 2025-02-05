@@ -1,4 +1,4 @@
-# FNU Shaik MOhammed Sadiq-DM
+# Shaik Mohammed Sadiq-DM
 
 A repository dedicated to exploring data management techniques using Python and Pandas for the Rutgers course **2025SP - Data Management (56:219:522:40) by FNU SHAIK MOHAMMED SADIQ, GRADUATE STUDENT IN DATA SCIENCE**
 
@@ -45,7 +45,7 @@ The following tools and frameworks are used in this repository:
 - **Colab**: For collaborative notebook editing and running Python code in the cloud.
 - **GitHub**: For version control and repository management.
 
-1. Clone this repository:
+## Clone this repository:
    ```bash
-   git clone https://github.com/sadiq937/CrazyRobo_DM.git
+   git clone https://github.com/sadiq937/Shaik_DM.git
    ```
